@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "kanban-API-1",
+			"path": "kanban-API-1"
+		},
+		{
+			"name": "kanban-API",
+			"path": "kanban-API"
+		}
+	],
+	"settings": {}
+}
